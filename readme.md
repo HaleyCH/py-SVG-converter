@@ -1,16 +1,17 @@
 # py-SVG-converter
 
 A easy way to convert a picture to SVG file.
-<center class="half">
+<div style="display:flex; justify-content:center; align-items: center; width: 100%">
     <img src="./docs/input.png" alt="input.png" style="width:40%" />
-    <div style="display:inline-block; width:5%; margin:auto 0;">👉</div>
+    <span>👉</span>
     <img src="./docs/output.svg" alt="output.svg" style="width:40%;" />
-</center>
+</div>
+
 ## Installation
 
 ### Windows
  
- 1. `git clone `
+ 1. `git clone https://github.com/HaleyCH/py-SVG-converter.git`
 
  2. install `pypotrace` follow [this link](https://github.com/flupke/pypotrace#windows)
 
@@ -33,7 +34,7 @@ $ pip install .
 
 3. Install py-SVG-converter:
 ```shell
-$ git clone 
+$ git clone https://github.com/HaleyCH/py-SVG-converter.git
 $ cd py-SVG-converter && pip install -r requirements.txt
 ```
 
@@ -55,7 +56,7 @@ $ pip install .
 
 3. Install py-SVG-converter:
 ```shell
-$ git clone 
+$ git clone https://github.com/HaleyCH/py-SVG-converter.git
 $ cd py-SVG-converter && pip install -r requirements.txt
 ```
 
